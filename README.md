@@ -8,9 +8,9 @@ Objetivos de Estudo:
 - Avaliar o impacto dos algoritmos na retenção de usuários e a ética na recomendação.
 
 📚 Curadoria de Fontes
-1 - "Item-Based Collaborative Filtering Recommendation Algorithms" (O famoso artigo da Amazon que revolucionou o e-commerce).
-2 - IBM: https://www.ibm.com/br-pt/think/topics/recommendation-engine
-3 - Geekhunter: https://blog.geekhunter.com.br/algoritmos-de-recomendacao-o-que-sao-e-como-implementa-los/
+1. "Item-Based Collaborative Filtering Recommendation Algorithms" (O famoso artigo da Amazon que revolucionou o e-commerce).
+2.  IBM: https://www.ibm.com/br-pt/think/topics/recommendation-engine
+3.  Geekhunter: https://blog.geekhunter.com.br/algoritmos-de-recomendacao-o-que-sao-e-como-implementa-los/
 
 🚀 Miniguia de Estudo: Glossário Técnico
 - Filtragem Colaborativa (Collaborative Filtering): Método que faz recomendações com base no comportamento de usuários parecidos. Se o Usuário A e B gostam dos mesmos filmes, e o Usuário A gostou de um filme novo, o sistema recomenda esse filme para o Usuário B.
