@@ -20,5 +20,6 @@ Objetivos de Estudo:
 
 🛠️ Prompts Reutilizáveis para colocar no NotebookLM
 1. "Aja como um Engenheiro de Machine Learning sênior. Com base nos textos fornecidos, explique de forma didática, usando uma analogia simples, como funciona o algoritmo de Fatoração de Matrizes para alguém que não entende de matemática."
-
 2. "Quais são os principais dilemas éticos apontados nas fontes em relação ao viés de recomendação e ao vício em plataformas? Resuma em 3 pontos críticos."
+
+Link do NotebookLM: https://notebooklm.google.com/notebook/e6068ba4-6647-48e8-b39f-f26c4f891cca
